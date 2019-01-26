@@ -1,6 +1,5 @@
-// Purpose: PF2 - HW1: Recursive Maze Solver
 // Author:  Jose Fraga
-// UAID:    010738487
+
 
 #include <iostream>
 #include <fstream>
